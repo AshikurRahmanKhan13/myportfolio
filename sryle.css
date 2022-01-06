@@ -12,4 +12,19 @@ section{
 }
 .width-half{
     width: 50%;
+    padding-left: 2%; 
+}
+.width-half img{
+     width: 50%;
+
+.link-button{
+    text-decoration: none;
+    background-color:orange;
+    padding: 10px 40px;
+    color: white;
+    font-weight: 700;
+    border-radious:5px
+}
+.five{
+    background-image: url(images/shapes/shape-1.png);
 }
